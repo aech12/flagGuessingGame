@@ -1,0 +1,34 @@
+html, body {
+  height: 100%;
+}
+
+.loading {
+  text-align: center;
+}
+.flag {
+  width: 400px;
+  display: flex;
+  margin: 0 auto;
+  padding: 25px;
+}
+
+.gamepage {
+  display: inline;
+  justify-content: center;
+}
+
+.form {
+  padding: 15px;
+  background: #36C740;
+  opacity: .8;
+}
+
+.inline {
+  display: inline;
+}
+
+.submitbutton {
+  display: flex;
+  padding: 5px;
+  background: white;
+}
