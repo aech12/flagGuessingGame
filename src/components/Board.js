@@ -13,7 +13,7 @@ class Board extends Component {
     }
   }
   componentDidMount() {
-      fetch('http://restcountries.eu/rest/v2/all')
+      fetch('https://restcountries.eu/rest/v2/all')
         .then(d=> d.json())
         .then(d=> {
           const options = this.getRandomCountries(d);
