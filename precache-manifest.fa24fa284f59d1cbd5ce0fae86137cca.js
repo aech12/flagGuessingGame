@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/flagGuessingGame/static/js/runtime~main.11d531f5.js"
   },
   {
-    "revision": "f29cc28a7bed528eaf0a",
-    "url": "/flagGuessingGame/static/js/main.f29cc28a.chunk.js"
+    "revision": "6fcbdda08ab02a781728",
+    "url": "/flagGuessingGame/static/js/main.6fcbdda0.chunk.js"
   },
   {
     "revision": "8df7078f39324016d415",
     "url": "/flagGuessingGame/static/js/1.8df7078f.chunk.js"
   },
   {
-    "revision": "f29cc28a7bed528eaf0a",
-    "url": "/flagGuessingGame/static/css/main.d80cf70a.chunk.css"
+    "revision": "6fcbdda08ab02a781728",
+    "url": "/flagGuessingGame/static/css/main.fdeecb58.chunk.css"
   },
   {
-    "revision": "d747409095f7d5a61e99e5fbbcf0a696",
+    "revision": "9c62c3dc8990b584053d7b7e1288b7c2",
     "url": "/flagGuessingGame/index.html"
   }
 ];

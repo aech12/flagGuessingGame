@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "/flagGuessingGame/precache-manifest.8360a219dec0d8e31460f30a6ba0a66c.js"
+  "/flagGuessingGame/precache-manifest.fa24fa284f59d1cbd5ce0fae86137cca.js"
 );
 
 workbox.clientsClaim();
